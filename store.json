@@ -1,10 +1,28 @@
 [
   {
-    "name": "MORADA VOL 1",
-    "url": "https://raw.githubusercontent.com/aldojoseoficial/padforge-presets/main/morada_vol1.pfpack"
+    "categoria": "DRUM PADS",
+    "samples": [
+      {
+        "name": "MORADA VOL 1",
+        "url": "https://raw.githubusercontent.com/aldojoseoficial/padforge-presets/main/morada_vol1.pfpack"
+      },
+      {
+        "name": "CASA WORSHIP",
+        "url": "https://raw.githubusercontent.com/aldojoseoficial/padforge-presets/main/casa_worship.pfpack"
+      }
+    ]
   },
   {
-    "name": "CASA WORSHIP",
-    "url": "https://raw.githubusercontent.com/aldojoseoficial/padforge-presets/main/casa_worship.pfpack"
+    "categoria": "PADS INFINITOS",
+    "samples": [
+      {
+        "name": "ATMOSPHERE PADS",
+        "url": "https://raw.githubusercontent.com/aldojoseoficial/padforge-presets/main/AtmospherePads.pfpack"
+      },
+      {
+        "name": "EPIC SAW",
+        "url": "https://githubusercontent.com"
+      }
+    ]
   }
 ]
